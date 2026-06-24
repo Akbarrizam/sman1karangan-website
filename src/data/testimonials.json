@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Budi Santoso, S.Kom.",
+    "gradYear": "2021",
+    "status": "Mahasiswa Teknik Informatika ITB",
+    "quote": "Belajar di SMANESKA memberikan landasan sains dan logika yang kuat. Dukungan guru-guru luar biasa membantu saya menembus ITB melalui jalur SNBP.",
+    "photo": "/images/alumni_budi.jpg",
+    "category": "university"
+  },
+  {
+    "id": "2",
+    "name": "Rina Wijayanti",
+    "gradYear": "2022",
+    "status": "Owner Dapur Smaneska Bakery",
+    "quote": "Berkat Program Double Track Tata Boga di sekolah, saya langsung bisa memulai usaha bakery sendiri setelah lulus. Sangat membekali keterampilan kerja nyata!",
+    "photo": "/images/alumni_rina.jpg",
+    "category": "double_track"
+  },
+  {
+    "id": "3",
+    "name": "Ahmad Fauzi, S.T.",
+    "gradYear": "2020",
+    "status": "Automation Engineer & Alumnus UGM",
+    "quote": "SMANESKA tidak hanya mendidik akademik, tapi juga kepemimpinan melalui OSIS. Karakter disiplin yang dibentuk di sini sangat berguna di dunia profesional.",
+    "photo": "/images/alumni_ahmad.jpg",
+    "category": "career"
+  }
+]

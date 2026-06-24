@@ -1,0 +1,157 @@
+@import "tailwindcss";
+
+/**
+ * Token desain SMAN 1 Karangan (SMANESKA)
+ * -----------------------------------------
+ * canvas    -> latar utama, putih kehijauan lembut (bukan cream generik)
+ * paper     -> permukaan kartu/section, putih bersih untuk kontras tipis dari canvas
+ * ink       -> warna teks utama, hijau gelap keabuan (bukan hitam pekat)
+ * forest    -> warna brand utama, merepresentasikan identitas "Green Education School"
+ * gold      -> aksen pencapaian/CTA, terinspirasi warna gamelan & batik sogan
+ * turonggo  -> aksen sinyal/penekanan langka, terinspirasi topeng Turonggo Yakso
+ *              (kesenian khas Trenggalek) -- dipakai sangat terbatas, bukan warna utama
+ *
+ * Gunakan modifier opacity Tailwind (mis. bg-forest/90, text-ink/70) untuk variasi
+ * gelap-terang, bukan menambah token warna baru, agar palet tetap konsisten.
+ */
+@theme {
+  --color-canvas: #f3f5ef;
+  --color-paper: #ffffff;
+  --color-ink: #16231b;
+  --color-forest: #1e4d3b;
+  --color-gold: #c98a2b;
+  --color-turonggo: #a33b2e;
+
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-body: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-signature: "Monsieur La Doulaise", cursive;
+
+
+  --animate-fade-in-up: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-float-leaf: floatLeaf 20s linear infinite;
+  --animate-pulse-glow: pulseGlow 8s ease-in-out infinite alternate;
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes floatLeaf {
+    0% {
+      transform: translateY(105vh) rotate(0deg) translateX(0);
+      opacity: 0;
+    }
+    10% {
+      opacity: 0.25;
+    }
+    90% {
+      opacity: 0.25;
+    }
+    100% {
+      transform: translateY(-10vh) rotate(360deg) translateX(80px);
+      opacity: 0;
+    }
+  }
+
+  @keyframes pulseGlow {
+    0% {
+      transform: scale(0.9) translate(0, 0);
+      opacity: 0.08;
+    }
+    100% {
+      transform: scale(1.15) translate(3%, 5%);
+      opacity: 0.16;
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply border-ink/10;
+  }
+
+  body {
+    @apply bg-canvas text-ink font-body antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display;
+  }
+
+  /* Hormati preferensi pengguna yang sensitif terhadap animasi */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+      transition-delay: 0ms !important;
+    }
+
+    .reveal-fade-in-up,
+    .reveal-fade-in-left,
+    .reveal-fade-in-right,
+    .reveal-zoom-in {
+      opacity: 1 !important;
+      transform: none !important;
+      transition: none !important;
+    }
+  }
+
+  /* Scroll Reveal Animation Utilities */
+  .reveal-fade-in-up {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
+  }
+  .reveal-fade-in-up.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .reveal-fade-in-left {
+    opacity: 0;
+    transform: translateX(-24px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
+  }
+  .reveal-fade-in-left.is-visible {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  .reveal-fade-in-right {
+    opacity: 0;
+    transform: translateX(24px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
+  }
+  .reveal-fade-in-right.is-visible {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  .reveal-zoom-in {
+    opacity: 0;
+    transform: scale(0.95);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
+  }
+  .reveal-zoom-in.is-visible {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

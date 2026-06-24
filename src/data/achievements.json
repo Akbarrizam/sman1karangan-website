@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Juara 1 Olimpiade Matematika Kabupaten Trenggalek",
+    "description": "Muhammad Faisal Ramadhan meraih juara 1 Olimpiade Matematika tingkat Kabupaten Trenggalek 2025.",
+    "level": "kabupaten",
+    "category": "akademik",
+    "year": 2025,
+    "rank": "Juara 1",
+    "organizer": "Dinas Pendidikan Kabupaten Trenggalek",
+    "participants": ["Muhammad Faisal Ramadhan"],
+    "photo": ""
+  },
+  {
+    "id": "2",
+    "title": "Juara 2 Lomba PBB Bripsus Tingkat Provinsi Jawa Timur",
+    "description": "Tim PBB Bripsus SMANESKA meraih runner-up dalam lomba PBB tingkat Provinsi Jawa Timur.",
+    "level": "provinsi",
+    "category": "olahraga",
+    "year": 2025,
+    "rank": "Juara 2",
+    "organizer": "Dinas Pendidikan Provinsi Jawa Timur",
+    "participants": [],
+    "photo": ""
+  },
+  {
+    "id": "3",
+    "title": "Juara 1 Debat Bahasa Inggris Tingkat Kabupaten",
+    "description": "Tim debat Bahasa Inggris SMANESKA meraih juara pertama dalam kompetisi tingkat Kabupaten Trenggalek.",
+    "level": "kabupaten",
+    "category": "akademik",
+    "year": 2025,
+    "rank": "Juara 1",
+    "organizer": "Dinas Pendidikan Kabupaten Trenggalek",
+    "participants": ["Anisa Dwi Rahayu", "Bagas Prasetyo"],
+    "photo": ""
+  },
+  {
+    "id": "4",
+    "title": "Juara 2 Kompetisi Sains Nasional Bidang Biologi",
+    "description": "Siswa SMANESKA meraih juara 2 dalam Kompetisi Sains Nasional bidang Biologi tingkat provinsi.",
+    "level": "provinsi",
+    "category": "akademik",
+    "year": 2024,
+    "rank": "Juara 2",
+    "organizer": "Kemendikbudristek",
+    "participants": ["Dewi Kartika Sari"],
+    "photo": ""
+  },
+  {
+    "id": "5",
+    "title": "Juara 1 Lomba Seni Tari Tradisional Tingkat Kabupaten",
+    "description": "Tim seni tari SMANESKA meraih juara pertama dalam festival seni tari tradisional Kabupaten Trenggalek.",
+    "level": "kabupaten",
+    "category": "seni-budaya",
+    "year": 2025,
+    "rank": "Juara 1",
+    "organizer": "Dinas Kebudayaan Kabupaten Trenggalek",
+    "participants": [],
+    "photo": ""
+  },
+  {
+    "id": "6",
+    "title": "Finalis Lomba Karya Ilmiah Remaja Tingkat Nasional",
+    "description": "Karya ilmiah siswa SMANESKA berhasil masuk tahap final Lomba Karya Ilmiah Remaja tingkat nasional.",
+    "level": "nasional",
+    "category": "karya-ilmiah",
+    "year": 2024,
+    "rank": "Finalis",
+    "organizer": "LIPI / BRIN",
+    "participants": ["Rizky Aditya Putra", "Siti Nurhaliza"],
+    "photo": ""
+  },
+  {
+    "id": "7",
+    "title": "Juara 1 Futsal Putra Tingkat Kabupaten Trenggalek",
+    "description": "Tim futsal putra SMANESKA berhasil meraih juara pertama dalam turnamen futsal antar SMA se-Kabupaten Trenggalek.",
+    "level": "kabupaten",
+    "category": "olahraga",
+    "year": 2025,
+    "rank": "Juara 1",
+    "organizer": "KONI Kabupaten Trenggalek",
+    "participants": [],
+    "photo": ""
+  },
+  {
+    "id": "8",
+    "title": "Pramuka Bantara – Ambalan Dewamadien Juara Umum Jambore Kabupaten",
+    "description": "Ambalan Dewamadien SMANESKA meraih juara umum dalam Jambore Pramuka Kabupaten Trenggalek.",
+    "level": "kabupaten",
+    "category": "pramuka",
+    "year": 2024,
+    "rank": "Juara Umum",
+    "organizer": "Kwarcab Trenggalek",
+    "participants": [],
+    "photo": ""
+  }
+]

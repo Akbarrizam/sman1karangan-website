@@ -1,0 +1,25 @@
+export const ROUTE_PATHS = {
+  HOME: '/',
+  PROFILE: '/profil',
+  PROFILE_HISTORY: '/profil/sejarah',
+  PROFILE_VISION: '/profil/visi-misi',
+  PROFILE_STRUCTURE: '/profil/struktur-organisasi',
+  ACADEMIC: '/akademik',
+  ACADEMIC_CURRICULUM: '/akademik/kurikulum',
+  ACADEMIC_CALENDAR: '/akademik/kalender',
+  ACADEMIC_TEACHERS: '/akademik/daftar-guru',
+  STUDENT: '/kesiswaan',
+  STUDENT_EXTRACURRICULAR: '/kesiswaan/ekstrakurikuler',
+  STUDENT_OSIS: '/kesiswaan/osis',
+  STUDENT_RULES: '/kesiswaan/tata-tertib',
+  FACILITIES: '/fasilitas',
+  ACHIEVEMENTS: '/prestasi',
+  NEWS: '/berita',
+  NEWS_DETAIL: '/berita/:slug',
+  ADMISSION: '/ppdb',
+  GALLERY: '/galeri',
+  CONTACT: '/kontak',
+  NOT_FOUND: '*',
+} as const
+
+export type RoutePath = (typeof ROUTE_PATHS)[keyof typeof ROUTE_PATHS]

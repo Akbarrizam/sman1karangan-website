@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1",
+    "name": "Agus Joko Santoso,S.Pd",
+    "nip": "196508151990031005",
+    "subject": "-",
+    "position": "Kepala Sekolah",
+    "education": "",
+    "photo": "/images/pagus.jpg",
+    "email": "kepsek@sman1karangan.sch.id"
+  },
+  {
+    "id": "2",
+    "name": "Yeni Sri Wahyuni, S.Si",
+    "nip": "197203201998022001",
+    "subject": "Guru Fisika",
+    "position": "Waka Kurikulum",
+    "education": "",
+    "photo": "/images/buyen.jpg",
+    "email": ""
+  },
+  {
+    "id": "3",
+    "name": "Dyah Rochmin. S.Kom",
+    "nip": "197105101999031003",
+    "subject": "Guru TIK",
+    "position": "Waka Kesiswaan",
+    "education": "",
+    "photo": "/images/dyah.jpg",
+    "email": ""
+  },
+  {
+    "id": "4",
+    "name": "Zaenudin, S.Pd.I., M.Pd.",
+    "nip": "198002142005012002",
+    "subject": "Guru PAI",
+    "position": "Wk Sarpras",
+    "education": "",
+    "photo": "/images/zai.jpg",
+    "email": ""
+  },
+  {
+    "id": "5",
+    "name": "Estuning Dhevi Ariesti, S.Pd",
+    "nip": "198510202010011012",
+    "subject": "Guru BK",
+    "position": "Wk Humas",
+    "education": "",
+    "photo": "/images/estuning.jpg",
+    "email": ""
+  },
+  {
+    "id": "6",
+    "name": "M. Masrur, S. Pd, MM",
+    "nip": "198712052012012015",
+    "subject": "Guru Fisika",
+    "position": "",
+    "education": "",
+    "photo": "/images/masrur.jpg",
+    "email": ""
+  },
+  {
+    "id": "7",
+    "name": "Mahfud, S.Pd",
+    "nip": "198901152013011020",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/mahfud.jpg",
+    "email": ""
+  },
+  {
+    "id": "8",
+    "name": "Drs. Muhammad Wildan",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Inggris",
+    "position": "",
+    "education": "",
+    "photo": "/images/wildan.jpg",
+    "email": ""
+  },
+  {
+    "id": "9",
+    "name": "Samsul Ma'arif, S.Pd.",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/samsul.jpg",
+    "email": ""
+  },
+  {
+    "id": "10",
+    "name": "Ainun Ghonimah, S.Ag",
+    "nip": "198603252011012018",
+    "subject": "Guru Agama",
+    "position": "",
+    "education": "",
+    "photo": "/images/ainun.jpg",
+    "email": ""
+  },
+  {
+    "id": "11",
+    "name": "Istifadah, S.E.",
+    "nip": "198603252011012018",
+    "subject": "Guru Ekonomi",
+    "position": "",
+    "education": "",
+    "photo": "/images/istifadah.jpg",
+    "email": ""
+  },
+  {
+    "id": "12",
+    "name": "Nurul Indayani, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/nur.jpg",
+    "email": ""
+  },
+  {
+    "id": "13",
+    "name": "Haristiyati, S.S.",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Indonesia",
+    "position": "",
+    "education": "",
+    "photo": "/images/haris.jpg",
+    "email": ""
+  },
+  {
+    "id": "14",
+    "name": "Rian Subekti, S.Pd.",
+    "nip": "198603252011012018",
+    "subject": "Guru Seni Budaya",
+    "position": "",
+    "education": "",
+    "photo": "/images/rian.png",
+    "email": ""
+  },
+  {
+    "id": "15",
+    "name": "Dra. Sri Lestari",
+    "nip": "198603252011012018",
+    "subject": "Guru Sejarah",
+    "position": "",
+    "education": "",
+    "photo": "/images/lestari.jpg",
+    "email": ""
+  },
+  {
+    "id": "16",
+    "name": "Indah Trisnaningsih, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Indonesia",
+    "position": "",
+    "education": "",
+    "photo": "/images/indah.jpg",
+    "email": ""
+  },
+  {
+    "id": "17",
+    "name": "Zulaikah, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Biologi",
+    "position": "",
+    "education": "",
+    "photo": "/images/zul.jpg",
+    "email": ""
+  },
+  {
+    "id": "18",
+    "name": "Edi Winarno, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Fisika",
+    "position": "",
+    "education": "",
+    "photo": "/images/edyw.jpg",
+    "email": ""
+  },
+  {
+    "id": "19",
+    "name": "Bagus Saputro, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Penjaskes",
+    "position": "",
+    "education": "",
+    "photo": "/images/bagus.jpg",
+    "email": ""
+  },
+  {
+    "id": "20",
+    "name": "Nurhadi, S. Ag",
+    "nip": "198603252011012018",
+    "subject": "Guru Pendidikan Agama Islam",
+    "position": "",
+    "education": "",
+    "photo": "/images/nurhadi.jpg",
+    "email": ""
+  },
+  {
+    "id": "21",
+    "name": "Luluk Winarni, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Biologi",
+    "position": "",
+    "education": "",
+    "photo": "/images/luluk.jpg",
+    "email": ""
+  },
+  {
+    "id": "22",
+    "name": "Retno Koesoemaningtyas, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Indonesia",
+    "position": "",
+    "education": "",
+    "photo": "/images/retno.jpg",
+    "email": ""
+  },
+  {
+    "id": "23",
+    "name": "Suwarno, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Inggris",
+    "position": "",
+    "education": "",
+    "photo": "/images/warno.jpg",
+    "email": ""
+  },
+  {
+    "id": "24",
+    "name": "Irin Murtiyanti, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Pendidikan Seni",
+    "position": "",
+    "education": "",
+    "photo": "/images/irin.jpg",
+    "email": ""
+  },
+  {
+    "id": "25",
+    "name": "Drs. Basuki Rachmad",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Inggris",
+    "position": "",
+    "education": "",
+    "photo": "/images/basuki.jpg",
+    "email": ""
+  },
+  {
+    "id": "26",
+    "name": "Yeni Sri Wahyuni, S. Si",
+    "nip": "198603252011012018",
+    "subject": "Guru Fisika",
+    "position": "",
+    "education": "",
+    "photo": "/images/yeni.jpg",
+    "email": ""
+  },
+  {
+    "id": "27",
+    "name": "Wahyu Heri Setiawan, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru BK",
+    "position": "",
+    "education": "",
+    "photo": "/images/wahyu.jpg",
+    "email": ""
+  },
+  {
+    "id": "28",
+    "name": "Dra. Esti Indyah Pertiwi",
+    "nip": "198603252011012018",
+    "subject": "Guru BK",
+    "position": "",
+    "education": "",
+    "photo": "/images/esti.jpg",
+    "email": ""
+  },
+  {
+    "id": "29",
+    "name": "Aminah,S.Hum",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Inggris",
+    "position": "",
+    "education": "",
+    "photo": "/images/aminah.png",
+    "email": ""
+  },
+  {
+    "id": "30",
+    "name": "Endah Wulandari,S.Pd.",
+    "nip": "198603252011012018",
+    "subject": "Guru PPKN",
+    "position": "",
+    "education": "",
+    "photo": "/images/endah.jpg",
+    "email": ""
+  },
+  {
+    "id": "31",
+    "name": "Hartini, S.Pd.I",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/hartini.png",
+    "email": ""
+  },
+  {
+    "id": "32",
+    "name": "Aziz Prasetya, S. Sos",
+    "nip": "198603252011012018",
+    "subject": "Guru Sosiologi",
+    "position": "",
+    "education": "",
+    "photo": "/images/aziz.jpg",
+    "email": ""
+  },
+  {
+    "id": "33",
+    "name": "Maryati, S. Kom ",
+    "nip": "198603252011012018",
+    "subject": "Guru TIK",
+    "position": "",
+    "education": "",
+    "photo": "/images/bumar.jpg",
+    "email": ""
+  },
+  {
+    "id": "34",
+    "name": "Oktia Dian Susanthi, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Pendidikan Seni",
+    "position": "",
+    "education": "",
+    "photo": "/images/oktia.jpg",
+    "email": ""
+  },
+  {
+    "id": "35",
+    "name": "Erna Vivin Agustina, S.T",
+    "nip": "198603252011012018",
+    "subject": "Guru Kimia",
+    "position": "",
+    "education": "",
+    "photo": "/images/erna.jpg",
+    "email": ""
+  },
+  {
+    "id": "36",
+    "name": "Devy Setyarisa, S. Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Kimia",
+    "position": "",
+    "education": "",
+    "photo": "/images/devi.jpg",
+    "email": ""
+  },
+  {
+    "id": "37",
+    "name": "Feri Budi Santoso, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Penjaskes",
+    "position": "",
+    "education": "",
+    "photo": "/images/feri.jpg",
+    "email": ""
+  },
+  {
+    "id": "38",
+    "name": "Siti Mutmainah, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/main.jpg",
+    "email": ""
+  },
+  {
+    "id": "39",
+    "name": "Harjendro Tri Hutomo, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Geografi",
+    "position": "",
+    "education": "",
+    "photo": "/images/harjendro.jpg",
+    "email": ""
+  },
+  {
+    "id": "40",
+    "name": "Mohammad Bakri, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Kimia",
+    "position": "",
+    "education": "",
+    "photo": "/images/bakri.jpg",
+    "email": ""
+  },
+  {
+    "id": "41",
+    "name": "Siti Habibah Muthoharoh, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru PKN",
+    "position": "",
+    "education": "",
+    "photo": "/images/mrusul.jpg",
+    "email": ""
+  },
+  {
+    "id": "42",
+    "name": "Lia Zahrotu Umami, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Sejarah",
+    "position": "",
+    "education": "",
+    "photo": "/images/lia.jpg",
+    "email": ""
+  },
+  {
+    "id": "43",
+    "name": "Fityan Hayu Ardianti, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru BK",
+    "position": "",
+    "education": "",
+    "photo": "/images/fit.png",
+    "email": ""
+  },
+  {
+    "id": "44",
+    "name": "Dwi Kuncara Setyawan, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/kuncoro.jpg",
+    "email": ""
+  },
+  {
+    "id": "45",
+    "name": "Ummi mahmudah, S.Pd.",
+    "nip": "198603252011012018",
+    "subject": "Guru BK",
+    "position": "",
+    "education": "",
+    "photo": "/images/umi.jpg",
+    "email": ""
+  },
+  {
+    "id": "46",
+    "name": "Safwan Andhi Sasmita,S.Pd.",
+    "nip": "198603252011012018",
+    "subject": "Guru Matematika",
+    "position": "",
+    "education": "",
+    "photo": "/images/andhi.png",
+    "email": ""
+  },
+  {
+    "id": "47",
+    "name": "Inggin Ardina W.P, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa jawa",
+    "position": "",
+    "education": "",
+    "photo": "/images/inggin.jpg",
+    "email": ""
+  },
+  {
+    "id": "48",
+    "name": "Emy Karyawati, S.Pd",
+    "nip": "198603252011012018",
+    "subject": "Guru Bahasa Jawa",
+    "position": "",
+    "education": "",
+    "photo": "/images/emykar.jpg",
+    "email": ""
+  }
+]

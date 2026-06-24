@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Seni Tari Tradisional",
+    "description": "Melestarikan tari tradisional Jawa Timur, termasuk tari Remo, Gandrung, dan tari khas Trenggalek. Siswa tampil di berbagai festival budaya tingkat kabupaten dan provinsi.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Selasa & Kamis, 14.30–16.30",
+    "coach": "Yuni Astuti, S.Sn.",
+    "photo": "",
+    "memberCount": 35
+  },
+  {
+    "id": "2",
+    "name": "Campursari & Gamelan",
+    "description": "Belajar memainkan instrumen gamelan Jawa dan menyanyikan lagu-lagu campursari. Merupakan kegiatan unggulan SMANESKA sebagai sekolah berwawasan seni budaya.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Rabu, 14.00–16.30",
+    "coach": "Ki Sugeng Prasetyo",
+    "photo": "",
+    "memberCount": 28
+  },
+  {
+    "id": "3",
+    "name": "Turonggo Yakso",
+    "description": "Kesenian kuda lumping khas Trenggalek yang merupakan warisan budaya tak benda. SMANESKA menjadi salah satu sekolah pelestari aktif kesenian ini.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Jumat, 14.00–16.30",
+    "coach": "Mbah Karto Wijoyo",
+    "photo": "",
+    "memberCount": 20
+  },
+  {
+    "id": "4",
+    "name": "Olah Vokal & Paduan Suara",
+    "description": "Mengembangkan bakat menyanyi siswa melalui pelatihan vokal, teknik bernyanyi, dan paduan suara. Aktif tampil di berbagai acara sekolah dan kompetisi.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Selasa, 14.00–16.00",
+    "coach": "Indah Permatasari, S.Pd.",
+    "photo": "",
+    "memberCount": 40
+  },
+  {
+    "id": "5",
+    "name": "Drama & Teater",
+    "description": "Mengembangkan kemampuan akting, penyutradaraan, dan produksi pertunjukan teater. Setiap tahun menggelar pentas drama yang terbuka untuk umum.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Sabtu, 09.00–12.00",
+    "coach": "Eko Saputra, S.Sn.",
+    "photo": "",
+    "memberCount": 25
+  },
+  {
+    "id": "6",
+    "name": "Pewayangan",
+    "description": "Mempelajari seni pewayangan sebagai warisan budaya adiluhung Jawa. Siswa belajar memainkan wayang dan mengenal cerita dalam epik Mahabharata dan Ramayana.",
+    "category": "seni-budaya",
+    "schedule": "Setiap Kamis, 14.00–16.00",
+    "coach": "Ki Dalang Suroto",
+    "photo": "",
+    "memberCount": 15
+  },
+  {
+    "id": "7",
+    "name": "Pramuka (Bantara Ambalan Dewamadien)",
+    "description": "Kegiatan pramuka penegak sebagai wadah pembentukan karakter, kedisiplinan, dan jiwa kepemimpinan. Ambalan Dewamadien aktif di berbagai kegiatan jambore tingkat kabupaten dan provinsi.",
+    "category": "organisasi",
+    "schedule": "Setiap Jumat, 13.00–15.30",
+    "coach": "Bambang Sutrisno, S.Pd.",
+    "photo": "",
+    "memberCount": 80
+  },
+  {
+    "id": "8",
+    "name": "PBB / Bripsus",
+    "description": "Latihan Peraturan Baris-Berbaris (PBB) dan Brigade Protokoler Sekolah (Bripsus) untuk mengembangkan kedisiplinan, kerapian, dan semangat nasionalisme siswa.",
+    "category": "olahraga",
+    "schedule": "Setiap Sabtu, 07.00–10.00",
+    "coach": "Serda (Purn.) Wahyu Handoko",
+    "photo": "",
+    "memberCount": 50
+  },
+  {
+    "id": "9",
+    "name": "Futsal",
+    "description": "Tim futsal putra dan putri SMANESKA yang aktif bertanding di berbagai turnamen antar pelajar tingkat kabupaten dan karesidenan.",
+    "category": "olahraga",
+    "schedule": "Setiap Selasa & Kamis, 15.00–17.00",
+    "coach": "Rudi Hermawan, S.Pd.",
+    "photo": "",
+    "memberCount": 30
+  },
+  {
+    "id": "10",
+    "name": "Bola Voli",
+    "description": "Mengembangkan kemampuan bermain voli untuk siswa putra dan putri. Tim voli SMANESKA rutin mengikuti kompetisi POPDA tingkat kabupaten.",
+    "category": "olahraga",
+    "schedule": "Setiap Rabu & Jumat, 15.00–17.00",
+    "coach": "Ari Wibowo, S.Pd.",
+    "photo": "",
+    "memberCount": 24
+  },
+  {
+    "id": "11",
+    "name": "English Debate Club",
+    "description": "Melatih kemampuan debat dalam Bahasa Inggris, public speaking, dan critical thinking. Aktif mengikuti kompetisi debat bahasa Inggris tingkat kabupaten dan provinsi.",
+    "category": "akademik",
+    "schedule": "Setiap Senin, 14.00–16.00",
+    "coach": "Ahmad Fauzi, S.Pd.",
+    "photo": "",
+    "memberCount": 20
+  },
+  {
+    "id": "12",
+    "name": "Kelompok Ilmiah Remaja (KIR)",
+    "description": "Wadah bagi siswa berminat penelitian ilmiah. Membimbing siswa merancang, melaksanakan, dan mempresentasikan penelitian ilmiah di berbagai kompetisi.",
+    "category": "akademik",
+    "schedule": "Setiap Rabu, 13.30–15.30",
+    "coach": "Dewi Puspita, S.Pd., M.Si.",
+    "photo": "",
+    "memberCount": 18
+  }
+]

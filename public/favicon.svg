@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110">
+  <!-- Pentagon black border -->
+  <polygon points="50,2 98,37 80,108 20,108 2,37" fill="#111111"/>
+  <!-- Pentagon blue body -->
+  <polygon points="50,7 93,40 76,103 24,103 7,40" fill="#1E90FF"/>
+
+  <!-- Top arc text path -->
+  <defs>
+    <path id="topArc" d="M 16,46 A 38,38 0 0,1 84,46"/>
+    <path id="botArc" d="M 24,92 A 30,30 0 0,0 76,92"/>
+    <!-- Wings clip paths -->
+  </defs>
+
+  <!-- Motto text along top arc -->
+  <text font-family="Arial Narrow, Arial, sans-serif" font-weight="900" font-size="5.8" fill="white" letter-spacing="0.15">
+    <textPath href="#topArc" startOffset="3%">MAKARYA NGESTI KUNCARANING SIWI</textPath>
+  </text>
+
+  <!-- ── CREST / FEATHERS (top fan) ── -->
+  <g fill="#CC0000">
+    <!-- Center tall feather -->
+    <path d="M49,23 L51,23 L52,48 L48,48 Z"/>
+    <!-- Left feathers -->
+    <path d="M46,25 L48,24 L48,49 L44,50 Z"/>
+    <path d="M42,28 L45,26 L45,51 L40,53 Z"/>
+    <path d="M38,32 L42,29 L41,54 L36,57 Z"/>
+    <!-- Right feathers -->
+    <path d="M54,25 L52,24 L52,49 L56,50 Z"/>
+    <path d="M58,28 L55,26 L55,51 L60,53 Z"/>
+    <path d="M62,32 L58,29 L59,54 L64,57 Z"/>
+  </g>
+
+  <!-- ── LEFT WING ── -->
+  <g fill="#CC0000">
+    <path d="M 40,55 C 34,50 25,49 14,52 C 18,55 24,54 30,57 C 34,54 38,55 40,55 Z"/>
+    <path d="M 40,58 C 32,54 22,55 13,59 C 17,60 23,58 31,60 C 35,57 39,58 40,58 Z"/>
+    <path d="M 40,61 C 32,59 22,60 14,65 C 18,65 24,62 32,63 C 36,61 40,62 40,61 Z"/>
+    <path d="M 40,64 C 33,63 24,65 16,70 C 20,69 26,66 34,66 C 37,65 40,65 40,64 Z"/>
+  </g>
+
+  <!-- ── RIGHT WING ── -->
+  <g fill="#CC0000">
+    <path d="M 60,55 C 66,50 75,49 86,52 C 82,55 76,54 70,57 C 66,54 62,55 60,55 Z"/>
+    <path d="M 60,58 C 68,54 78,55 87,59 C 83,60 77,58 69,60 C 65,57 61,58 60,58 Z"/>
+    <path d="M 60,61 C 68,59 78,60 86,65 C 82,65 76,62 68,63 C 64,61 60,62 60,61 Z"/>
+    <path d="M 60,64 C 67,63 76,65 84,70 C 80,69 74,66 66,66 C 63,65 60,65 60,64 Z"/>
+  </g>
+
+  <!-- ── CENTER BODY / BULLSEYE ── -->
+  <!-- Outer white ring -->
+  <circle cx="50" cy="60" r="10" fill="white"/>
+  <!-- Blue ring -->
+  <circle cx="50" cy="60" r="8" fill="#1E90FF"/>
+  <!-- Red ring -->
+  <circle cx="50" cy="60" r="6" fill="#CC0000"/>
+  <!-- Black ring -->
+  <circle cx="50" cy="60" r="3.5" fill="#111111"/>
+  <!-- Center dot -->
+  <circle cx="50" cy="60" r="1.5" fill="#CC0000"/>
+
+  <!-- Small scroll / tail below body -->
+  <path d="M 44,68 L 44,72 Q 50,70 56,72 L 56,68 Q 50,67 44,68 Z" fill="#CC0000"/>
+  <!-- Arrow tip pointing down -->
+  <polygon points="47,72 53,72 50,77" fill="#CC0000"/>
+
+  <!-- ── BOTTOM RIBBON ── -->
+  <path d="M 20,86 Q 50,82 80,86 Q 78,95 50,93 Q 22,95 20,86 Z" fill="#CC0000"/>
+  <!-- Left ribbon tail -->
+  <path d="M 17,84 L 20,86 L 18,95 L 14,92 Z" fill="#CC0000"/>
+  <!-- Right ribbon tail -->
+  <path d="M 83,84 L 80,86 L 82,95 L 86,92 Z" fill="#CC0000"/>
+
+  <!-- SMAN 1 KARANGAN text on ribbon -->
+  <text x="50" y="91" text-anchor="middle" font-family="Arial Narrow, Arial, sans-serif" font-weight="900" font-size="6" fill="white" letter-spacing="0.5">SMAN 1 KARANGAN</text>
+
+  <!-- Stars on ribbon -->
+  <text x="26" y="91" text-anchor="middle" font-family="Arial" font-size="5" fill="white">★</text>
+  <text x="74" y="91" text-anchor="middle" font-family="Arial" font-size="5" fill="white">★</text>
+</svg>
