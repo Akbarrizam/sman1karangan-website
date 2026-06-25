@@ -73,6 +73,7 @@ export default function Navbar() {
     setOpenDropdown(null)
   }
 
+
   return (
     <>
       <header
